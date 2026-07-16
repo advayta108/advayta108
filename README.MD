@@ -10,12 +10,10 @@
 
 <div align="center">
 
-  <!-- Stats cards powered by anuraghazra/github-readme-stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=advayta108&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advayta108&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <!-- Stats cards powered by advayta108/github-stats (jstrieb template) -->
+  <a href="https://github.com/advayta108/github-stats">
+    <img src="https://github.com/advayta108/github-stats/blob/generated/overview.svg" alt="GitHub Stats" />
+    <img src="https://github.com/advayta108/github-stats/blob/generated/languages.svg" alt="Top Languages" />
   </a>
 
   <br />
@@ -38,11 +36,14 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF)](https://www.assemblyscript.org/)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=FFFFFF)](https://webassembly.org/)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/)
-[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=FFFFFF)](https://learn.microsoft.com/powershell/)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFFFFF)](https://soliditylang.org/)
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=000000)](https://ziglang.org/)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=FFFFFF)](https://learn.microsoft.com/powershell/)
 
 ---
 
